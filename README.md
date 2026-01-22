@@ -41,4 +41,5 @@ The dashboard provides actionable insights to support data-driven decision-makin
 ## 👤 Author
 **Toibul Sk**  
 GitHub: https://github.com/Toibul
+Screenshot :https://github.com/Toibul/AdventureWorksDW2022-PowerBI-Analysis/blob/main/Starschema(ss).png
 
